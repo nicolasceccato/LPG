@@ -1,0 +1,1 @@
+Algoritmos em linguagem de alto nível. Sintaxe de operadores, expressões e instruções de controle. Tipos simples e estruturas compostas. Manipulação de dados em memória. Arquivos. Funções. Teste e documentação de programas.
